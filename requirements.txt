@@ -1,0 +1,5 @@
+imutils==0.5.3
+numpy
+opencv-python==4.1.1.26
+pip==19.2.3
+setuptools==40.6.2
